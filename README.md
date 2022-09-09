@@ -12,12 +12,13 @@ This program was developed as part of the master's thesis "Situationsabhängige 
 Install:
 - [Python 3](https://www.python.org/downloads/)
 - [Neo4J](https://neo4j.com/)
-- python-pockages:
-  > os
-  > spacy
-  > re
-  > from nltk.stem.snowball import SnowballStemmer
-  > from neo4j import GraphDatabase
+
+python-pockages:
+- os
+- spacy
+- re
+- from nltk.stem.snowball import SnowballStemmer
+- from neo4j import GraphDatabase
 
 ### Run - Clothing-Prediction
 - make sure to run Neo4J-database, otherwise the program has no access to the data.
