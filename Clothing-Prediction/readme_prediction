@@ -1,0 +1,4 @@
+To run the program, the main.py must be started via a development environment or the console with the command (python main.py). 
+A prerequisite for the runability of the individual modules is that the graph database is started in Neo4J and thus accessible. 
+Neo4J can be obtained from https://neo4j.com/download/. In the context of this work the Neo4J Desktop version for Windows was used. 
+The graph database can be created manually via the csv import sequence or via the .dump file from the "Neo4J folder".
