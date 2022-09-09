@@ -7,7 +7,6 @@ The knowledge base was developed based on a specially trained BERT model and als
 
 This program was developed as part of the master's thesis "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren (german)".
 
-
 ## General Information - Clothing-Prediction
 Install:
 - [Python 3](https://www.python.org/downloads/)
