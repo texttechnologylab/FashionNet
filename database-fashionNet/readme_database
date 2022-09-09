@@ -1,0 +1,8 @@
+The "Graph.dump file" that accompanies this folder can be loaded via Neo4J. 
+
+Instructions for this can be found at the following link:
+https://neo4j.com/docs/operations-manual/current/backup-restore/restore-dump/
+
+If there are problems loading the dump file, the graph can also be made via individual imports of CSV files from the folder .\CSV_raw. The sequence and commands for this are in the "FashionNet_csv_import.txt" file located in the same folder.
+
+Important for the connection with the main program is the setting of a password (password: master thesis) and the use of the compatible version: 4.3.3 of Neo4J
