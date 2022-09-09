@@ -8,16 +8,16 @@ The knowledge base was developed based on a specially trained BERT model and als
 This program was developed as part of the master's thesis "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren (german)".
 
 
-## General Information - Clothing-item-prediction
+## General Information - Clothing-Prediction
 Install:
 - [Python 3](https://www.python.org/downloads/)
 - [Neo4J](https://neo4j.com/)
 
-### Run - Clothing-item-prediction
+### Run - Clothing-Prediction
 - make sure to run Neo4J-database, otherwise the program has no access to the data.
 - run main.py from development environment (i.e. PyCharm) or console via command python main.py)
 
-### Usage - Clothing-items-Prediction
+### Usage - Clothing-Prediction
 Any text can be entered. The results are then displayed in console.
 
 
