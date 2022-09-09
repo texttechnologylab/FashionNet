@@ -11,7 +11,7 @@ This program was developed as part of the master's thesis "Situationsabhängige 
 
 Necessary programs:
 - Python 3
-- Neo4J
+- [Neo4J](https://neo4j.com/)
 - 
 
 ## Usage - Multiclass-Classification
