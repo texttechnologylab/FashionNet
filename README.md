@@ -9,7 +9,7 @@ This program was developed as part of the master's thesis "Situationsabhängige 
 
 ## General Information
 
-Necessary programs:
+Install:
 - [Python 3](https://www.python.org/downloads/)
 - [Neo4J](https://neo4j.com/)
 - 
