@@ -3,14 +3,14 @@
 
 # FashionNet
 FashionNet extracts clothing items occurring in a text based on a Neo4J knowledge base that has also been made available. 
-The knowledge base was developed based on a specially trained BERT model and also feeds from other resources such as wikidata, wordnet, and similarity relations between items via static word models (Word2Vec, GLove, and fastText) and the bidirectional BERT model.
+The knowledge base was developed based on a specially trained BERT model and also feeds from other resources such as wikidata, wordnet, and similarity relations between items via static word models (Word2Vec, GLove, and fastText) and the bidirectional [BERT model](https://github.com/google-research/bert).
 
 This program was developed as part of the master's thesis "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren (german)".
 
 ## General Information
 
 Necessary programs:
-- Python 3
+- [Python 3](https://www.python.org/downloads/)
 - [Neo4J](https://neo4j.com/)
 - 
 
