@@ -17,6 +17,6 @@ Install:
 ## Usage - Multiclass-Classification
 
 
-## Usage - Clothingitems-Prediction
+## Usage - Clothing-items-Prediction
 To run the prediction model, it is necessary to include the knowledge base in Neo4J and start the database. Then the Python program main.py can be started and any text can be entered. The results are then output in the console.
 
