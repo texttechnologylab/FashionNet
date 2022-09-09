@@ -26,6 +26,25 @@ python-pockages:
 ### Usage - Clothing-Prediction
 Any text can be entered. The results are then displayed in console.
 
+### Sample output
+
+input-sentence: "The girl on the bench wears fancy red high heels and a blue jeans."
+
+Detected Items: 1
+name: jeans
+Associated Attributes: blue
+--> Item-Properties (jeans):
+AgeGroup: [['adults-men','86.57%'],['adults-women',9.14%'],...]
+Gender: [['Men','88.41%'],['Women','9,14%'],...]
+Category: Apparel
+Sub-Category: Topwear
+
+Potenital Items: 1
+Target-Name: shoes
+Source-name: high-heels
+path-length: 2
+node-path: ['high heels', 'heels','shoes']
+relationship-path: ['BMF_IDF','BMF_IDF']
 
 
 ## General Information - Multiclass-Classification
