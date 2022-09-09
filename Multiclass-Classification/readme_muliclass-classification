@@ -1,0 +1,19 @@
+*Python environment*
+
+SETUP
+
+- https://docs.conda.io/en/latest/miniconda.html (install and run conda-prompt)
+- conda create -n 'bertModel' python=3.8
+- conda activate bertModel
+- pip install tensorflow
+- pip install transfomers
+- pip install numpy
+
+Run application
+- navigate to bertModel.py file direction
+- python ownModel.py
+
+Usage
+- follow instructions on command line
+- there are two possible usages. It's possible to use a random sample text from (Fashion Product Image Dataset, Kaggle) or input sentences by yourself
+
