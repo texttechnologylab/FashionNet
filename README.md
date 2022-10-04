@@ -64,3 +64,21 @@ relationship-path: ['BMF_IDF','BMF_IDF']
 - there are two possible usages. It's possible to use a random sample text from (Fashion Product Image Dataset, Kaggle) or input sentences by yourself
 
 
+# Citation
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Meyer"
+    given-names: "Dirk"
+title: "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren"
+preferred-citation:
+  type: masterthesis
+  authors:
+  - family-names: "Meyer"
+    given-names: "Dirk"
+  start: 1 # First page number
+  end: 86 # Last page number
+  title: "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren"
+  institution: Texttechnologie
+  school: Universitätsbibliothek Johann Christian Senckenberg
+  year: 2022
