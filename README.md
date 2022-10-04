@@ -64,6 +64,6 @@ relationship-path: ['BMF_IDF','BMF_IDF']
 - there are two possible usages. It's possible to use a random sample text from (Fashion Product Image Dataset, Kaggle) or input sentences by yourself
 
 # Cite
-Meyer, D.,(2022,September). Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren. 
+Meyer, D. (2022). Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren. (Version 1.0) [Computer software]
 
-# BibTex
+
