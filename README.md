@@ -63,13 +63,7 @@ relationship-path: ['BMF_IDF','BMF_IDF']
 - follow instructions on command line
 - there are two possible usages. It's possible to use a random sample text from (Fashion Product Image Dataset, Kaggle) or input sentences by yourself
 
-# Citation (bibtex)
-@mastersthesis{Meyer2022,
-  author      = {Dirk Meyer},
-  title       = {Situationsabh{\"a}ngige Bekleidungsmodellierung mit Hilfe von Machine Learning f{\"u}r die Erstellung von Avataren},
-  type        = {masterthesis},
-  institution = {Texttechnologie},
-  pages       = {86},
-  school      = {Universit{\"a}tsbibliothek Johann Christian Senckenberg},
-  year        = {2022},
-}
+# Cite
+Meyer, D.,(2022,September). Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren. 
+
+# BibTex
