@@ -63,7 +63,23 @@ relationship-path: ['BMF_IDF','BMF_IDF']
 - follow instructions on command line
 - there are two possible usages. It's possible to use a random sample text from (Fashion Product Image Dataset, Kaggle) or input sentences by yourself
 
+
 # Cite
-Meyer, D. (2022). Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren. (Version 1.0) [Computer software]
+If you want to use the project please quote this as follows:
 
+Dirk Meyer. "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren". Master’s thesis masterthesis, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt, Germany, 2022 [[LINK](https://publikationen.ub.uni-frankfurt.de/opus4/frontdoor/index/index/docId/69690)] [[PDF](https://publikationen.ub.uni-frankfurt.de/opus4/files/69690/Masterarbeit_Dirk_Meyer.pdf)]
 
+## BibTeX
+```
+@mastersthesis{Meyer:2022,
+  author      = {Dirk Meyer},
+  title       = {Situationsabh{\"a}ngige Bekleidungsmodellierung mit Hilfe von Machine Learning f{\"u}r die Erstellung von Avataren},
+  type        = {masterthesis},
+  institution = {Institute of Computer Science and Mathematics, Text Technology Lab},
+  address     = {Frankfurt, Germany},
+  pages       = {86},
+  school      = {Universit{\"a}tsbibliothek Johann Christian Senckenberg},
+  year        = {2022},
+  url         = {https://publikationen.ub.uni-frankfurt.de/opus4/frontdoor/index/index/docId/69690}
+}
+```
