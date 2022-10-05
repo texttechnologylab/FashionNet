@@ -67,7 +67,7 @@ relationship-path: ['BMF_IDF','BMF_IDF']
 # Cite
 If you want to use the project please quote this as follows:
 
-Dirk Meyer. "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren". Master’s thesis masterthesis, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt, Germany, 2022 [[LINK](https://publikationen.ub.uni-frankfurt.de/opus4/frontdoor/index/index/docId/69690)] [[PDF](https://publikationen.ub.uni-frankfurt.de/opus4/files/69690/Masterarbeit_Dirk_Meyer.pdf)]
+Dirk Meyer. "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren". Master’s thesis, Frankfurt, Germany, 2022 [[LINK](https://publikationen.ub.uni-frankfurt.de/opus4/frontdoor/index/index/docId/69690)] [[PDF](https://publikationen.ub.uni-frankfurt.de/opus4/files/69690/Masterarbeit_Dirk_Meyer.pdf)]
 
 ## BibTeX
 ```
