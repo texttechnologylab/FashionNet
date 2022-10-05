@@ -4,10 +4,6 @@ authors:
   - family-names: Meyer
     given-names: Dirk
 title: "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine Learning für die Erstellung von Avataren."
-type: "Master-Thesis"
-institution: "Institute of Computer Science and Mathematics, Text Technology Lab"
-address: "Frankfurt, Germany"
-pages 86
 version: 1.0
 date-released: 2022-09-09
 url: "https://github.com/texttechnologylab/FashionNet"
