@@ -78,7 +78,6 @@ Dirk Meyer. "Situationsabhängige Bekleidungsmodellierung mit Hilfe von Machine 
   institution = {Institute of Computer Science and Mathematics, Text Technology Lab},
   address     = {Frankfurt, Germany},
   pages       = {86},
-  school      = {Universit{\"a}tsbibliothek Johann Christian Senckenberg},
   year        = {2022},
   url         = {https://publikationen.ub.uni-frankfurt.de/opus4/frontdoor/index/index/docId/69690}
 }
